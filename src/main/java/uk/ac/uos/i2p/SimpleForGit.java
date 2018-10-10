@@ -8,6 +8,6 @@ public class SimpleForGit {
 	}
 
 	public String getName() {
-		return "N. O. Body ";
+		return "Andrew Finch";
 	}
 }
