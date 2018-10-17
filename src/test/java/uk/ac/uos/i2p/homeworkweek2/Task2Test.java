@@ -11,7 +11,7 @@ public class Task2Test {
     @Test
     void name() {
 
-       /* Task2 task2 = new Task2();
-        task2.dimensionsUsingIf("S", )*/
+        Task2 task2 = new Task2();
+        task2.dimensionsUsingIf("S");
     }
 }
