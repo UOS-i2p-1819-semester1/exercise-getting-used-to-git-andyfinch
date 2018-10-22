@@ -17,8 +17,8 @@ public class Task4 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        Task4 task3 = new Task4();
-        task3.sumValues(in);
+        Task4 task4 = new Task4();
+        task4.sumValues(in);
     }
 
     public String sumValues(Scanner scanner) {
