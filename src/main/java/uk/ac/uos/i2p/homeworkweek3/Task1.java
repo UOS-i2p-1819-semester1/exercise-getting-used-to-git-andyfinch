@@ -1,4 +1,4 @@
-package uk.ac.uos.i2p.homeworkweek2;
+package uk.ac.uos.i2p.homeworkweek3;
 
 import java.util.Arrays;
 

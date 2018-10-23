@@ -1,6 +1,5 @@
-package uk.ac.uos.i2p.homeworkweek2;
+package uk.ac.uos.i2p.homeworkweek3;
 
-import java.io.Console;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Scanner;

@@ -1,6 +1,4 @@
-package uk.ac.uos.i2p.homeworkweek2;
-
-import java.util.Scanner;
+package uk.ac.uos.i2p.homeworkweek3;
 
 /**
  * Created by IntelliJ IDEA.

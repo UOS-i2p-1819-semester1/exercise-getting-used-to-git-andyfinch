@@ -1,6 +1,5 @@
-package uk.ac.uos.i2p.homeworkweek2;
+package uk.ac.uos.i2p.homeworkweek3;
 
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import java.util.Scanner;
