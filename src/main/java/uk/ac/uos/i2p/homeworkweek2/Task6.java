@@ -13,7 +13,6 @@ public class Task6 {
 
 
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
         Task6 task6 = new Task6();
         task6.timeTables();
     }
@@ -26,7 +25,7 @@ public class Task6 {
             for (int j = 1; j < 13; j++)
             {
 
-                sum = sum+=i*j;
+                sum+=i*j;
                 System.out.println("Timestable for " + i + " X " + j + " = " + i*j);
 
             }
